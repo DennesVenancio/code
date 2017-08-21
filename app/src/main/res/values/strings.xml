@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDennes</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="times">tiempo:</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="name">Dennes Venancio</string>
+    <string name="email">dennes.venancio@gmail.com</string>
+    <string name="recipes_favorites">recipes favorites</string>
+</resources>
